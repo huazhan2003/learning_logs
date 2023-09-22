@@ -1,5 +1,4 @@
 # learning_logs
-《python从入门到实践》的web项目
 
 用户名 huazhan
 
