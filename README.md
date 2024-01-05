@@ -9,3 +9,9 @@
 项目中没有部署到服务器的部分
 
 来源于《python由入门到实践》
+
+运行方式
+
+```python
+python manage.py
+```
